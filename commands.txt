@@ -1,4 +1,7 @@
 cd
 rmdir
 mkdir
+grep
+cat
+less
 ls
